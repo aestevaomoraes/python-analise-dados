@@ -48,3 +48,29 @@ O projeto explora como fatores como proximidade de conveniências influenciam o 
 ---
 
 ## 📦 Estrutura do Projeto
+
+python-analise-dados/
+│
+├── notebooks/
+│ └── regressao_linear_statsmodels.ipynb
+│
+├── datasets/
+│
+├── requirements.txt
+│
+└── README.md
+
+
+---
+
+## ⚙️ Como Executar o Projeto
+
+```bash
+# Clonar repositório
+git clone https://github.com/aestevaomoraes/python-analise-dados.git
+
+# Entrar na pasta
+cd python-analise-dados
+
+# Instalar dependências
+pip install -r requirements.txt
