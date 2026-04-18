@@ -2,3 +2,10 @@ Atualiza o Git :
 git add .
 git commit -m "feat: organiza estrutura e corrige RMSE"
 git push
+
+ou 
+
+git status
+git add .
+git commit -m "refactor: reorganiza estrutura + add data/raw + fix RMSE"
+git push origin main
